@@ -11,10 +11,10 @@ using System.Windows.Forms;
 
 namespace MateKids
 {
-    public partial class MateKids : MetroFramework.Forms.MetroForm
+    public partial class frmMateKids : MetroFramework.Forms.MetroForm
 
     {
-        public MateKids()
+        public frmMateKids()
         {
             InitializeComponent();
         }
@@ -23,5 +23,26 @@ namespace MateKids
         {
 
         }
+
+
+        private void pbxIcono_multiplicax_MouseEnter(object sender, EventArgs e)
+        {
+            pbxIcono_multiplicax.Size = new System.Drawing.Size(170, 148);
+
+        }
+
+        private void pbxIcono_multiplicax_MouseLeave(object sender, EventArgs e)
+        {
+            pbxIcono_multiplicax.Size = new System.Drawing.Size(155, 133);
+        }
+
+        private void agrandarIconosJuego()
+        {
+            foreach ( PictureBox icono in metroPanel1.Controls)
+            {
+                d
+            }
+        }
+
     }
 }
