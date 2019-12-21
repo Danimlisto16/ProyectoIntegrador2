@@ -40,7 +40,7 @@ namespace MateKids
         {
             foreach ( PictureBox icono in metroPanel1.Controls)
             {
-                
+                d
             }
         }
 
