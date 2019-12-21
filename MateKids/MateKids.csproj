@@ -98,6 +98,7 @@
   <ItemGroup>
     <None Include="bin\Debug\matekids_nombre.png" />
     <None Include="bin\Debug\multiplicax_juego.PNG" />
+    <None Include="bin\Debug\multiplicax_juego_icono.png" />
     <Content Include="MetroFramework.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
