@@ -4,10 +4,10 @@ C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\bin\Debu
 C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\bin\Debug\MetroFramework.dll
 C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\bin\Debug\MetroFramework.Fonts.dll
 C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.csprojAssemblyReference.cache
-C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.MateKids.resources
 C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.Properties.Resources.resources
 C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.csproj.GenerateResource.cache
 C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.csproj.CopyComplete
 C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.exe
 C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.pdb
 C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\bin\Debug\XanderUI.dll
+C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.frmMateKids.resources

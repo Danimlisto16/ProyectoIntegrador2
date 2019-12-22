@@ -38,11 +38,12 @@ namespace MateKids
 
         private void agrandarIconosJuego()
         {
-            foreach ( PictureBox icono in metroPanel1.Controls)
-            {
-                d
-            }
+            
         }
 
+        private void pbxIcono_multiplicax_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
