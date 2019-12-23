@@ -10,5 +10,5 @@ C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debu
 C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.exe
 C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.pdb
 C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\bin\Debug\XanderUI.dll
-C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.frmMateKids.resources
 C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.frmMultiplicax.resources
+C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.MenuSeleccion.resources

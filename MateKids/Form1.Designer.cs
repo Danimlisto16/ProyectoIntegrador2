@@ -1,6 +1,6 @@
 ﻿namespace MateKids
 {
-    partial class frmMateKids
+    partial class MenuSeleccion
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.titulo_juego = new System.Windows.Forms.PictureBox();
             this.pictureBox12 = new System.Windows.Forms.PictureBox();
             this.pictureBox13 = new System.Windows.Forms.PictureBox();
             this.pictureBox14 = new System.Windows.Forms.PictureBox();
@@ -47,9 +47,9 @@
             this.pictureBox7 = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.pbxTitulo__multiplicax = new System.Windows.Forms.PictureBox();
-            this.pbxIcono_multiplicax = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.titulo_minijuego_1 = new System.Windows.Forms.PictureBox();
+            this.icono_minijuego_1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.titulo_juego)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).BeginInit();
@@ -68,19 +68,19 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pbxTitulo__multiplicax)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pbxIcono_multiplicax)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.titulo_minijuego_1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.icono_minijuego_1)).BeginInit();
             this.SuspendLayout();
             // 
-            // pictureBox1
+            // titulo_juego
             // 
-            this.pictureBox1.Image = global::MateKids.Properties.Resources.matekids_nombre;
-            this.pictureBox1.Location = new System.Drawing.Point(366, 25);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(500, 116);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
+            this.titulo_juego.Image = global::MateKids.Properties.Resources.matekids_nombre;
+            this.titulo_juego.Location = new System.Drawing.Point(366, 25);
+            this.titulo_juego.Name = "titulo_juego";
+            this.titulo_juego.Size = new System.Drawing.Size(500, 116);
+            this.titulo_juego.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.titulo_juego.TabIndex = 0;
+            this.titulo_juego.TabStop = false;
             // 
             // pictureBox12
             // 
@@ -244,32 +244,34 @@
             this.pictureBox5.TabIndex = 63;
             this.pictureBox5.TabStop = false;
             // 
-            // pbxTitulo__multiplicax
+            // titulo_minijuego_1
             // 
-            this.pbxTitulo__multiplicax.Image = global::MateKids.Properties.Resources.multiplicax_juego;
-            this.pbxTitulo__multiplicax.Location = new System.Drawing.Point(113, 201);
-            this.pbxTitulo__multiplicax.Name = "pbxTitulo__multiplicax";
-            this.pbxTitulo__multiplicax.Size = new System.Drawing.Size(155, 30);
-            this.pbxTitulo__multiplicax.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pbxTitulo__multiplicax.TabIndex = 62;
-            this.pbxTitulo__multiplicax.TabStop = false;
+            this.titulo_minijuego_1.Image = global::MateKids.Properties.Resources.multiplicax_juego;
+            this.titulo_minijuego_1.Location = new System.Drawing.Point(113, 201);
+            this.titulo_minijuego_1.Name = "titulo_minijuego_1";
+            this.titulo_minijuego_1.Size = new System.Drawing.Size(155, 30);
+            this.titulo_minijuego_1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.titulo_minijuego_1.TabIndex = 62;
+            this.titulo_minijuego_1.TabStop = false;
             // 
-            // pbxIcono_multiplicax
+            // icono_minijuego_1
             // 
-            this.pbxIcono_multiplicax.Image = global::MateKids.Properties.Resources.multiplicax_juego_icono;
-            this.pbxIcono_multiplicax.Location = new System.Drawing.Point(113, 237);
-            this.pbxIcono_multiplicax.Name = "pbxIcono_multiplicax";
-            this.pbxIcono_multiplicax.Size = new System.Drawing.Size(155, 133);
-            this.pbxIcono_multiplicax.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pbxIcono_multiplicax.TabIndex = 61;
-            this.pbxIcono_multiplicax.TabStop = false;
-            this.pbxIcono_multiplicax.Click += new System.EventHandler(this.pbxIcono_multiplicax_Click);
+            this.icono_minijuego_1.Image = global::MateKids.Properties.Resources.multiplicax_juego_icono;
+            this.icono_minijuego_1.Location = new System.Drawing.Point(113, 237);
+            this.icono_minijuego_1.Name = "icono_minijuego_1";
+            this.icono_minijuego_1.Size = new System.Drawing.Size(155, 133);
+            this.icono_minijuego_1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.icono_minijuego_1.TabIndex = 61;
+            this.icono_minijuego_1.TabStop = false;
+            this.icono_minijuego_1.Click += new System.EventHandler(this.icono_minijuego_1_Click);
+            this.icono_minijuego_1.MouseEnter += new System.EventHandler(this.pbxIcono_multiplicax_MouseEnter);
+            this.icono_minijuego_1.MouseLeave += new System.EventHandler(this.pbxIcono_multiplicax_MouseLeave);
             // 
-            // frmMateKids
+            // MenuSeleccion
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1245, 666);
+            this.ClientSize = new System.Drawing.Size(1251, 666);
             this.Controls.Add(this.pictureBox12);
             this.Controls.Add(this.pictureBox13);
             this.Controls.Add(this.pictureBox14);
@@ -288,13 +290,12 @@
             this.Controls.Add(this.pictureBox7);
             this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.pictureBox5);
-            this.Controls.Add(this.pbxTitulo__multiplicax);
-            this.Controls.Add(this.pbxIcono_multiplicax);
-            this.Controls.Add(this.pictureBox1);
-            this.Name = "frmMateKids";
+            this.Controls.Add(this.titulo_minijuego_1);
+            this.Controls.Add(this.icono_minijuego_1);
+            this.Controls.Add(this.titulo_juego);
+            this.Name = "MenuSeleccion";
             this.Text = " ";
-            this.Load += new System.EventHandler(this.Form1_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.titulo_juego)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).EndInit();
@@ -313,15 +314,15 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pbxTitulo__multiplicax)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pbxIcono_multiplicax)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.titulo_minijuego_1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.icono_minijuego_1)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox titulo_juego;
         private System.Windows.Forms.PictureBox pictureBox12;
         private System.Windows.Forms.PictureBox pictureBox13;
         private System.Windows.Forms.PictureBox pictureBox14;
@@ -340,8 +341,8 @@
         private System.Windows.Forms.PictureBox pictureBox7;
         private System.Windows.Forms.PictureBox pictureBox4;
         private System.Windows.Forms.PictureBox pictureBox5;
-        private System.Windows.Forms.PictureBox pbxTitulo__multiplicax;
-        private System.Windows.Forms.PictureBox pbxIcono_multiplicax;
+        private System.Windows.Forms.PictureBox titulo_minijuego_1;
+        private System.Windows.Forms.PictureBox icono_minijuego_1;
     }
 }
 

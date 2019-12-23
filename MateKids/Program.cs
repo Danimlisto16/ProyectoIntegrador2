@@ -16,7 +16,7 @@ namespace MateKids
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMateKids());
+            Application.Run(new MenuSeleccion());
         }
     }
 }
