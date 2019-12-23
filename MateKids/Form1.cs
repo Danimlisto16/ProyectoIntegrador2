@@ -5,45 +5,42 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Diagnostics;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
 namespace MateKids
 {
-    public partial class frmMateKids : MetroFramework.Forms.MetroForm
+    public partial class MenuSeleccion : MetroFramework.Forms.MetroForm
 
     {
-        public frmMateKids()
+        public MenuSeleccion()
         {
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void iniciar_minijuego( )
         {
-
+            #region
+                string minijuego_1 = "C://Users//wwwda//Desktop//ISOW//ISOW_4_C//PrograVisual//U2//juegoMultiplica//bin//Debug//juegoMultiplicar.exe";
+            #endregion
+            Process.Start(minijuego_1);
         }
-
 
         private void pbxIcono_multiplicax_MouseEnter(object sender, EventArgs e)
         {
-            pbxIcono_multiplicax.Size = new System.Drawing.Size(170, 148);
-
+            icono_minijuego_1.Size = new System.Drawing.Size(170, 148);
         }
 
         private void pbxIcono_multiplicax_MouseLeave(object sender, EventArgs e)
         {
-            pbxIcono_multiplicax.Size = new System.Drawing.Size(155, 133);
+            icono_minijuego_1.Size = new System.Drawing.Size(155, 133);
         }
 
-        private void agrandarIconosJuego()
+        private void icono_minijuego_1_Click(object sender, EventArgs e)
         {
-            
-        }
-
-        private void pbxIcono_multiplicax_Click(object sender, EventArgs e)
-        {
-
+            iniciar_minijuego();
         }
     }
 }
