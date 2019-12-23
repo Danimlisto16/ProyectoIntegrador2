@@ -40,7 +40,14 @@ namespace MateKids
 
         private void icono_minijuego_1_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             iniciar_minijuego();
+=======
+            foreach ( PictureBox icono in metroPanel1.Controls)
+            {
+                
+            }
+>>>>>>> parent of 8ae9fd0... c1
         }
     }
 }
