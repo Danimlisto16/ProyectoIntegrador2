@@ -42,5 +42,7 @@ namespace MateKids
         {
             iniciar_minijuego();
         }
+
+       
     }
 }
