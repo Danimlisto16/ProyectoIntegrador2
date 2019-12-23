@@ -12,3 +12,17 @@ C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debu
 C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\bin\Debug\XanderUI.dll
 C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.frmMateKids.resources
 C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.frmMultiplicax.resources
+C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\bin\Debug\MateKids.exe.config
+C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\bin\Debug\MateKids.exe
+C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\bin\Debug\MateKids.pdb
+C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\bin\Debug\MetroFramework.dll
+C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.csprojAssemblyReference.cache
+C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.frmMateKids.resources
+C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.frmMultiplicax.resources
+C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.Properties.Resources.resources
+C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.csproj.GenerateResource.cache
+C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.csproj.CoreCompileInputs.cache
+C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.csproj.CopyComplete
+C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.exe
+C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.pdb
