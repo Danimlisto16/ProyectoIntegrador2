@@ -43,6 +43,11 @@ namespace MateKids
             iniciar_minijuego();
         }
 
+        private void icono_minijuego_2_Click(object sender, EventArgs e)
+        {
+            //show.dialog
+        }
+
        
     }
 }
