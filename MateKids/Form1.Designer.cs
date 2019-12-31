@@ -154,6 +154,9 @@
             this.icono_minijuego_7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.icono_minijuego_7.TabIndex = 73;
             this.icono_minijuego_7.TabStop = false;
+            this.icono_minijuego_7.Click += new System.EventHandler(this.icono_minijuego_7_Click);
+            this.icono_minijuego_7.MouseEnter += new System.EventHandler(this.icono_minijuego_7_MouseEnter);
+            this.icono_minijuego_7.MouseLeave += new System.EventHandler(this.icono_minijuego_7_MouseLeave);
             // 
             // titulo_minijuego_6
             // 
@@ -176,6 +179,9 @@
             this.icono_minijuego_6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.icono_minijuego_6.TabIndex = 71;
             this.icono_minijuego_6.TabStop = false;
+            this.icono_minijuego_6.Click += new System.EventHandler(this.icono_minijuego_6_Click);
+            this.icono_minijuego_6.MouseEnter += new System.EventHandler(this.icono_minijuego_6_MouseEnter);
+            this.icono_minijuego_6.MouseLeave += new System.EventHandler(this.icono_minijuego_6_MouseLeave);
             // 
             // titulo_minijuego_3
             // 
