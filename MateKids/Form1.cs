@@ -11,6 +11,7 @@ using System.Windows.Forms;
 using MateKids.Minijuego_1;
 using MateKids.Minijuego_6;
 using MateKids.Miinijuego_7;
+using MateKids.Minijuego_2;
 
 namespace MateKids
 {
@@ -50,7 +51,8 @@ namespace MateKids
 
         private void icono_minijuego_2_Click(object sender, EventArgs e)
         {
-            //show.dialog
+            Minijuego_2.Minijuego2 minijuego = new Minijuego_2.Minijuego2();
+            minijuego.ShowDialog();
         }
 
         private void icono_minijuego_6_MouseEnter(object sender, EventArgs e)
@@ -81,8 +83,18 @@ namespace MateKids
 
         private void icono_minijuego_7_Click(object sender, EventArgs e)
         {
-            Minijuego7 minijuego = new Minijuego7();
+            Miinijuego_7.Minijuego7 minijuego = new Miinijuego_7.Minijuego7();
             minijuego.ShowDialog();
+        }
+
+        private void icono_minijuego_2_MouseEnter(object sender, EventArgs e)
+        {
+            icono_minijuego_2.Size = new System.Drawing.Size(170, 148);
+        }
+
+        private void icono_minijuego_2_MouseLeave(object sender, EventArgs e)
+        {
+            icono_minijuego_2.Size = new System.Drawing.Size(155, 133);
         }
     }
 }

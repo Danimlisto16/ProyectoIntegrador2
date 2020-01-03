@@ -25,8 +25,6 @@ C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug
 C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.Miinijuego_7.Form8.resources
 C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.Miinijuego_7.Form9.resources
 C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.Miinijuego_7.Minijuego7.resources
-<<<<<<< HEAD
-<<<<<<< HEAD
 C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.Minijuego_2.Form2_1.resources
 C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.Minijuego_2.Form2_10.resources
 C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.Minijuego_2.Form2_2.resources
@@ -38,13 +36,39 @@ C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug
 C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.Minijuego_2.Form2_8.resources
 C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.Minijuego_2.Form2_9.resources
 C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.Minijuego_2.Minijuego2.resources
-C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.csprojAssemblyReference.cache
-C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.MenuSeleccion.resources
-C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.Properties.Resources.resources
-C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.csproj.GenerateResource.cache
-C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.exe
-C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.pdb
-=======
->>>>>>> parent of 1abb45c... Minijuego2
-=======
->>>>>>> parent of 1abb45c... Minijuego2
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\bin\Debug\MateKids.exe.config
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\bin\Debug\MateKids.exe
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\bin\Debug\MateKids.pdb
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\bin\Debug\MetroFramework.dll
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.csprojAssemblyReference.cache
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.MenuSeleccion.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Miinijuego_7.Form_1.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Miinijuego_7.Form10.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Miinijuego_7.Form_2.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Miinijuego_7.Form3.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Miinijuego_7.Form4.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Miinijuego_7.Form5.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Miinijuego_7.Form6.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Miinijuego_7.Form7.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Miinijuego_7.Form8.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Miinijuego_7.Form9.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Miinijuego_7.Minijuego7.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Minijuego_1.Minijuego1.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Minijuego_2.Form2_1.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Minijuego_2.Form2_10.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Minijuego_2.Form2_2.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Minijuego_2.Form2_3.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Minijuego_2.Form2_4.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Minijuego_2.Form2_5.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Minijuego_2.Form2_6.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Minijuego_2.Form2_7.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Minijuego_2.Form2_8.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Minijuego_2.Form2_9.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Minijuego_2.Minijuego2.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Minijuego_6.Minijuego6.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.Properties.Resources.resources
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.csproj.GenerateResource.cache
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.csproj.CopyComplete
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.exe
+C:\Users\wwwda\Downloads\ProyectoIntegrador2-1abb45cc8d7bef790b79db2074b05f054522ed2f\MateKids\obj\Debug\MateKids.pdb
