@@ -256,17 +256,13 @@
             // 
             // icono_minijuego_2
             // 
-            this.icono_minijuego_2.Image = global::MateKids.Properties.Resources.multipractis_juego_icono;
             this.icono_minijuego_2.Location = new System.Drawing.Point(441, 292);
             this.icono_minijuego_2.Margin = new System.Windows.Forms.Padding(4);
             this.icono_minijuego_2.Name = "icono_minijuego_2";
             this.icono_minijuego_2.Size = new System.Drawing.Size(207, 164);
-            this.icono_minijuego_2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.icono_minijuego_2.TabIndex = 63;
             this.icono_minijuego_2.TabStop = false;
             this.icono_minijuego_2.Click += new System.EventHandler(this.icono_minijuego_2_Click);
-            this.icono_minijuego_2.MouseEnter += new System.EventHandler(this.icono_minijuego_2_MouseEnter);
-            this.icono_minijuego_2.MouseLeave += new System.EventHandler(this.icono_minijuego_2_MouseLeave);
             // 
             // titulo_minijuego_1
             // 
