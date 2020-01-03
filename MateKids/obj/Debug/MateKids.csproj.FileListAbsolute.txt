@@ -26,6 +26,7 @@ C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug
 C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.Miinijuego_7.Form9.resources
 C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.Miinijuego_7.Minijuego7.resources
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.Minijuego_2.Form2_1.resources
 C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.Minijuego_2.Form2_10.resources
 C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.Minijuego_2.Form2_2.resources
@@ -43,5 +44,7 @@ C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debu
 C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.csproj.GenerateResource.cache
 C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.exe
 C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.pdb
+=======
+>>>>>>> parent of 1abb45c... Minijuego2
 =======
 >>>>>>> parent of 1abb45c... Minijuego2

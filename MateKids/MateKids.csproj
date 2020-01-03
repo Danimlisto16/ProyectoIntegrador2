@@ -244,6 +244,9 @@
     <None Include="bin\Debug\d9.PNG" />
     <None Include="bin\Debug\d10.PNG" />
     <None Include="bin\Debug\linea.jpg" />
+<<<<<<< HEAD
+>>>>>>> parent of 1abb45c... Minijuego2
+=======
 >>>>>>> parent of 1abb45c... Minijuego2
     <Content Include="MetroFramework.txt" />
   </ItemGroup>
