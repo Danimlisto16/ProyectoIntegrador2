@@ -36,3 +36,9 @@ C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug
 C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.Minijuego_2.Form2_8.resources
 C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.Minijuego_2.Form2_9.resources
 C:\Users\matgr\OneDrive\Documentos\GitHub\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.Minijuego_2.Minijuego2.resources
+C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.csprojAssemblyReference.cache
+C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.MenuSeleccion.resources
+C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.Properties.Resources.resources
+C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.csproj.GenerateResource.cache
+C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.exe
+C:\Users\wwwda\Desktop\ProyectoIntegrador2\ProyectoIntegrador2\MateKids\obj\Debug\MateKids.pdb
