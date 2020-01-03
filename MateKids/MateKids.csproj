@@ -138,72 +138,6 @@
     <Compile Include="Minijuego_1\Minijuego1.Designer.cs">
       <DependentUpon>Minijuego1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Minijuego_2\Form2_1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Minijuego_2\Form2_1.Designer.cs">
-      <DependentUpon>Form2_1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Minijuego_2\Form2_10.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Minijuego_2\Form2_10.Designer.cs">
-      <DependentUpon>Form2_10.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Minijuego_2\Form2_2.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Minijuego_2\Form2_2.Designer.cs">
-      <DependentUpon>Form2_2.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Minijuego_2\Form2_3.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Minijuego_2\Form2_3.Designer.cs">
-      <DependentUpon>Form2_3.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Minijuego_2\Form2_4.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Minijuego_2\Form2_4.Designer.cs">
-      <DependentUpon>Form2_4.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Minijuego_2\Form2_5.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Minijuego_2\Form2_5.Designer.cs">
-      <DependentUpon>Form2_5.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Minijuego_2\Form2_6.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Minijuego_2\Form2_6.Designer.cs">
-      <DependentUpon>Form2_6.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Minijuego_2\Form2_7.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Minijuego_2\Form2_7.Designer.cs">
-      <DependentUpon>Form2_7.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Minijuego_2\Form2_8.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Minijuego_2\Form2_8.Designer.cs">
-      <DependentUpon>Form2_8.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Minijuego_2\Form2_9.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Minijuego_2\Form2_9.Designer.cs">
-      <DependentUpon>Form2_9.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Minijuego_2\Minijuego2.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Minijuego_2\Minijuego2.Designer.cs">
-      <DependentUpon>Minijuego2.cs</DependentUpon>
-    </Compile>
     <Compile Include="Minijuego_6\Minijuego6.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -251,39 +185,6 @@
     <EmbeddedResource Include="Minijuego_1\Minijuego1.resx">
       <DependentUpon>Minijuego1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Minijuego_2\Form2_1.resx">
-      <DependentUpon>Form2_1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Minijuego_2\Form2_10.resx">
-      <DependentUpon>Form2_10.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Minijuego_2\Form2_2.resx">
-      <DependentUpon>Form2_2.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Minijuego_2\Form2_3.resx">
-      <DependentUpon>Form2_3.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Minijuego_2\Form2_4.resx">
-      <DependentUpon>Form2_4.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Minijuego_2\Form2_5.resx">
-      <DependentUpon>Form2_5.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Minijuego_2\Form2_6.resx">
-      <DependentUpon>Form2_6.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Minijuego_2\Form2_7.resx">
-      <DependentUpon>Form2_7.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Minijuego_2\Form2_8.resx">
-      <DependentUpon>Form2_8.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Minijuego_2\Form2_9.resx">
-      <DependentUpon>Form2_9.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Minijuego_2\Minijuego2.resx">
-      <DependentUpon>Minijuego2.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Minijuego_6\Minijuego6.resx">
       <DependentUpon>Minijuego6.cs</DependentUpon>
     </EmbeddedResource>
@@ -328,18 +229,6 @@
     <None Include="bin\Debug\d9.PNG" />
     <None Include="bin\Debug\d10.PNG" />
     <None Include="bin\Debug\linea.jpg" />
-    <None Include="bin\Debug\linea2.PNG" />
-    <None Include="bin\Debug\m1.PNG" />
-    <None Include="bin\Debug\m10.PNG" />
-    <None Include="bin\Debug\m2.PNG" />
-    <None Include="bin\Debug\m3.PNG" />
-    <None Include="bin\Debug\m4.PNG" />
-    <None Include="bin\Debug\m5.PNG" />
-    <None Include="bin\Debug\m6.PNG" />
-    <None Include="bin\Debug\m7.PNG" />
-    <None Include="bin\Debug\m8.PNG" />
-    <None Include="bin\Debug\m9.PNG" />
-    <None Include="bin\Debug\multipractis_juego_icono.PNG" />
     <Content Include="MetroFramework.txt" />
   </ItemGroup>
   <ItemGroup />
